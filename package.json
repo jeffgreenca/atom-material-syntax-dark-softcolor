@@ -1,15 +1,16 @@
 {
-  "name": "atom-material-syntax-dark",
+  "name": "atom-material-syntax-dark-softcolor",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "A darker syntax theme for Atom that uses Google's Material Design color palette",
+  "description": "A softer dark syntax theme based on atom-material-syntax-dark",
   "keywords": [
     "syntax",
     "theme",
     "material",
-    "material design"
+    "material design",
+    "softcolor"
   ],
-  "repository": "https://github.com/silvestreh/atom-material-syntax-dark",
+  "repository": "https://github.com/jeffgreenca/atom-material-syntax-dark-softcolor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
